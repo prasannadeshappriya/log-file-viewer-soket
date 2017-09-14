@@ -1,0 +1,8 @@
+filewatcher/.idea
+filewatcher/node_modules
+soket/.idea
+soket/node_modules
+/filewatcher/.idea
+/filewatcher/node_modules
+/soket/.idea
+/soket/node_modules
